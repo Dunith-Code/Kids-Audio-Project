@@ -74,3 +74,7 @@ I designed a simple, intuitive web interface using Flask's `render_template` fun
 
 ### 👥 Acknowledging
 This system was developed as part of an internship project within a professional industrial setting. The success of this project was made possible by the guidance and support of the Automation Engineering team of Phoenix Industries Ltd, Makandura, Sri Lanka.
+
+## 📄 License & Copyright
+This project was developed during an internship at Phoenix Industries.
+All rights to the design, documentation, and software are owned by Phoenix Industries.
